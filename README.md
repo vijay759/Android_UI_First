@@ -1,4 +1,4 @@
-# Android_UI_First
+# vijay_demo
 Author - Vijay Solanki
 <br>
 Email - Vijay1998solanki@gmail.com
